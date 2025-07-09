@@ -1,3 +1,12 @@
+![canary_1](https://github.com/user-attachments/assets/dd74b966-9f1f-4f5c-bd18-43bb7dcde9ec)
+
+![canary_2](https://github.com/user-attachments/assets/0cc8b11a-cf8e-48c3-92db-cbda6fc35617)
+
+![canary_3](https://github.com/user-attachments/assets/58e3d66a-7c91-47be-bdfc-a039cdace5c6)
+
+
+
+
 ## Canary Deployment Strategy
 
 - A Canary Deployment in Kubernetes is a strategy where a new version of an app is released to a small group of users first. If it works well, it’s gradually rolled out to everyone. This helps reduce the risk of issues affecting all users.
