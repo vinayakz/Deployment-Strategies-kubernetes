@@ -1,3 +1,8 @@
+![Recreate_deployment](https://github.com/user-attachments/assets/557ad8af-832a-4a3f-9b49-278557676396)
+
+![Recreate_deployment_1](https://github.com/user-attachments/assets/30ffd622-127a-407d-9ed6-5bfd7e4bb584)
+
+
 ## Recreate Deployment Strategy
 
 - Recreate deployment strategy involves the process of terminating all existing running pods before creating new ones.
