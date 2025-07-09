@@ -1,3 +1,10 @@
+![rolling_update](https://github.com/user-attachments/assets/02ed1441-fa25-469a-9d0f-f4129913d406)
+
+![rolling_container_creating](https://github.com/user-attachments/assets/d40458df-e437-4fe0-b797-6a42c7af85ca)
+
+
+
+
 ## Rolling Update Deployment Strategy
 
 - A rolling update in Kubernetes is a deployment strategy used to gradually replace the existing set of Pods with a new set of Pods one by one.
